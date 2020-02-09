@@ -11,6 +11,7 @@
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Pages\Students\" />
+    <Folder Include="Models\SchoolViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.1" />
